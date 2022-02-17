@@ -1,4 +1,4 @@
-FROM pandare:latest
+FROM pandare/panda:latest
 
 # Just install some packages: build-essentials for compiling
 # and a few text editors
