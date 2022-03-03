@@ -1,4 +1,4 @@
-FROM Ubuntu:20.04
+FROM ubuntu:20.04
 
 # Just install some packages: build-essentials for compiling
 # and a few text editors
