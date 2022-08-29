@@ -9,7 +9,7 @@ docker build -t [name] -f [dir_name]/Dockerfile [dir_name]
 
 For example:
 ```
-docker built -t my_dynamorio -f dynamorio/Dockerfile dynamorio
+docker build -t my_dynamorio -f dynamorio/Dockerfile dynamorio
 ```
 
 Then run the container with:
